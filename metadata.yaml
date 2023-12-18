@@ -1,0 +1,41 @@
+_repo: Kalevala-Suomen-kansan-hengentuotteena-b-Kansantajuisia-esityksia_72027
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Heporauta, Frans Akseli
+    aliases:
+    - Hästesko, F. A. (Frans Akseli)
+    - Hästesko, Frans Akseli
+    - Hastesko, F. A. (Frans Akseli)
+    birthdate: 1879
+    deathdate: 1946
+    gutenberg_agent_id: '56503'
+    url: http://www.gutenberg.org/2009/agents/56503
+    wikipedia: https://fi.wikipedia.org/wiki/Frans_Akseli_Heporauta
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72027'
+language: fi
+pgterms:marc905: 20210411053829hstesko
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kalevala'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Arvo Inkilä, Maailman synty ja elämän alku Kalevalan mukaan -- F.
+  A. Hästesko, Kalevalan kuvakielestä -- Elsa Hästesko, Kalevalaisten kotielämää --
+  O. A. Kallio, Kalevalan miehet -- O. A. Kallio, Kalevalan naiset -- V. Tarkiainen,
+  Suomen luonto Kalevalassa -- F. A. Hästesko, Loitsuja taika Kalevalassa -- F. A.
+  Hästesko, Mielikuvitus ja todellisuus Kalevalassa -- F. A. Hästesko, Ihminen ja
+  luonto Kalevalassa -- Väinö Salminen, Kansanrunouden keräys ja yhdistäminen Kalevalaksi
+  -- Väinö Salminen, Kalevalan runojen laulajista -- Väinö Salminen, Kalevalan runojen
+  alkuperästä.
+title: 'Kalevala Suomen kansan hengentuotteena : $b Kansantajuisia esityksiä'
+url: http://www.gutenberg.org/ebooks/72027
